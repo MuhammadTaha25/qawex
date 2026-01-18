@@ -1,0 +1,11 @@
+langchain
+langchain-community
+langchain-huggingface
+langchain-google-genai
+langchain-pinecone
+pinecone-notebooks
+fastapi
+pydantic
+uvicorn
+sentence-transformers
+huggingface-hub
